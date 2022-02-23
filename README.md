@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OwenLeee
-- 👀 I’m interested in Computer Science world. My goal is to be a Software Architect.
-- 🌱 I’m currently learning Angular / Java / MongoDB / Docker
+- 👋 Hi, I’m @OwenLeee. I started my coding journey on Sept 2019 by joining a coding bootcamp.
+- 👀 I’m very interested in Computer Science's world. My goal is to become a Software Architect.
+- 🌱 I love to learn the latest technologies! I will build some demo projects to solid my knowledge!
 
 
 <!---
